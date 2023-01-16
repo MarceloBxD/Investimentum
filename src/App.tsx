@@ -16,7 +16,7 @@ function App() {
       flexDir={{ sm: "column", md: "column", lg: "row", xl: "row" }}
       w="100%"
       h="100vh"
-      bgColor="teal"
+      bgColor="#eee"
     >
       <DataCompany />
       <DataUsers />
