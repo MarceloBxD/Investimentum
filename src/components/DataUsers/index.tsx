@@ -6,7 +6,6 @@ import { InfoUserBox } from "../InfoUserBox";
 export const DataUsers = () => {
   return (
     <Flex
-      justify="center"
       h="100%"
       p="40px"
       flexDir="column"
